@@ -1,28 +1,30 @@
-# Proteus Piezo Buzzer Alarm Circuit 🔔⚡
+# Proteus Buzzer Alarm System
 
-Circuit design and simulation for a transistor-driven piezo buzzer audio signaling system in Proteus EDA.
+Proteus EDA circuit schematic and simulation for a transistor-driven piezo buzzer alarm system.
 
-## Key Features ✨
-- Well-structured code and clean modular implementation.
-- Built with modern standard tools: **Proteus EDA 8.x, Transistor Driver, Piezo Buzzer Simulation**.
-- Clean data preprocessing, EDA, and model evaluation metrics.
+## Contents
+- **Code**: `Proteus_Buzzer_Alarm_System (code).pdsprj`
+- **Dataset / Resources**: `Circuit schematics and simulation workspace`
+- **Documentation**: `README.md`
 
-## Project Structure 📂
-```
-Proteus_Buzzer_Alarm_System/
-├── .gitignore
-├── README.md
-└── ... (project source files)
+## Requirements
+```bash
+pip install Proteus Design Suite 8.x
 ```
 
-## Setup & Installation 🚀
+## Usage
+1. Clone the repository:
 ```bash
 git clone https://github.com/Yuossef-Ashraf/Proteus_Buzzer_Alarm_System.git
 cd Proteus_Buzzer_Alarm_System
 ```
+2. Open and run the project code:
+```bash
+jupyter notebook "Proteus_Buzzer_Alarm_System (code).pdsprj"
+```
 
-## Author 👤
-Created and maintained by **Yuossef Ashraf**.
+## Author
+Yuossef Ashraf
 
-## License 📜
-Distributed under the MIT License.
+## License
+MIT License
